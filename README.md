@@ -1,3 +1,7 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Mar 2, 2026, 04_15_41 AM" src="https://github.com/user-attachments/assets/28a0a872-1a90-415f-95e8-3b15caa9ddb3" />
+
+
 # Sales Performance Analysis Dashboard (2024–2025)
 
 # Project Overview
